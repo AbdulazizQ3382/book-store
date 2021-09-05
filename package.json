@@ -1,0 +1,14 @@
+{
+  "name": "book-store",
+  "version": "1.0.0",
+  "description": "this project is required from twig",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Abdulaziz Qannam",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
